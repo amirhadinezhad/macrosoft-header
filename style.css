@@ -1,0 +1,19 @@
+header{
+   
+height: 54px;
+background: #e6e6e6;
+display: flex;
+
+}
+div.text{
+    display: flex;
+    list-style: none;
+}
+ul{
+    list-style: none;
+    display: flex;
+    padding: 14px;
+}
+input{
+    
+}
